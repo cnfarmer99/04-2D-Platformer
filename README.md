@@ -4,10 +4,8 @@
 Created in Godot 3.2.2
 
 # TODO:
-    add enemies
-    player can use space to attack enemies and score 5 points per hit. 
-        enemy dies after 4 hits
-        enemy does damage if it hits you
+    player can flip switch to turn off turrets and gain 5 points per turret
+        make turrets reset after killing player
     can save after level one and after level two
     create main menu where you can load 
     Interactive objects:
