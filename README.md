@@ -1,6 +1,18 @@
 # Godot-Project-Template
 
-This is an empty Godot project that can be used as a starting place for Godot repositories. After creating and cloning the repository, download this as a zip file. Unzip it and copy the files into the repository folder. You should then be able to import the project.godot file (in the repository folder) as a project in Godot. Make sure you change the project name in the Project Settings.
-
 ## Implementation
 Created in Godot 3.2.2
+
+# TODO:
+    add enemies
+    player can use space to attack enemies and score 5 points per hit. 
+        enemy dies after 4 hits
+        enemy does damage if it hits you
+    can save after level one and after level two
+    create main menu where you can load 
+    Interactive objects:
+        L1- add switch that can make portal disappear and reappear
+        L3 - Make lava kill you
+    Add scores for killing enemies
+
+
