@@ -1,7 +1,23 @@
-# Godot-Project-Template
+# 04-2D-Platformer
+2d Platformer October 31, 2020
+
+3 level 2D platformer game.
 
 ## Implementation
-Created in Godot 3.2.2
+3 Levels
+3 Enemies
+WAD player controlls (S not necessary)
+
+
+## References
+04c Levels
+04b Hide and Seek
+
+## Future Development
+None
+
+## Created by
+Cierra Farmer
 
 # TODO:
     player can flip switch to turn off turrets and gain 5 points per turret
